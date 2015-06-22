@@ -5,6 +5,7 @@ A collection of awesome [PouchDB](http://pouchdb.com/) libraries, plugins, resou
 ## Documentation
 
 * [pouchdb/api](http://pouchdb.com/api.html) - PouchDB official API documentation
+* [pouchdb/wiki](https://github.com/pouchdb/pouchdb/wiki) - PouchDB official Wiki
 
 ## Demo
 
@@ -24,6 +25,7 @@ A collection of awesome [PouchDB](http://pouchdb.com/) libraries, plugins, resou
 * [nolanlawson/transform-pouch](https://github.com/nolanlawson/transform-pouch) - PouchDB plugin for modifying documents before and after storage in the database.
 * [nolanlawson/pouchdb-load](https://github.com/nolanlawson/pouchdb-load) - Load documents into CouchDB/PouchDB from a dumpfile.
 * [marten-de-vries/pouchdb-erase](https://github.com/marten-de-vries/pouchdb-erase) - A replicating db.destroy() alternative for PouchDB
+* [pouchdb/upsert](https://github.com/pouchdb/upsert) - PouchDB upsert() and putIfNotExists() functions.
 * [pouchdb/external](http://pouchdb.com/external.html) - PouchDB official plugins list.
 * [PouchDB Plug-ins](http://python-pouchdb.marten-de-vries.nl/plugins.html) - PouchDB-Validation, PouchDB-Show, PouchDB-List, PouchDB-Update, PouchDB-Rewrite & PouchDB-Replicator
 
@@ -31,7 +33,10 @@ A collection of awesome [PouchDB](http://pouchdb.com/) libraries, plugins, resou
 
 * [nolanlawson/ember-pouch](https://github.com/nolanlawson/ember-pouch) - PouchDB/CouchDB adapter for Ember Data.
 * [nolanlawson/PouchDroid](https://github.com/nolanlawson/PouchDroid/) - PouchDB + Android = deliciously synchronous.
+* [olafura/PouchFlux](https://github.com/olafura/PouchFlux) - Flux with PouchDB.
 
-## Security
+## Discussion/Post
 
+* [pouchdb/group](https://groups.google.com/forum/#!forum/pouchdb) - PouchDB Google Group
+* [pouchdb/blog](http://pouchdb.com/2014/06/17/12-pro-tips-for-better-code-with-pouchdb.html) - 12 pro tips for better code with PouchDB
 * [Discussion](https://groups.google.com/forum/#!topic/pouchdb/K6_hDh3kxxA) - PouchDB and security
