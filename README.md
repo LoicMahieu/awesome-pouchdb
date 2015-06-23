@@ -16,17 +16,21 @@ A collection of awesome [PouchDB](http://pouchdb.com/) libraries, plugins, resou
 
 * [pouchdb/express-pouchdb](https://github.com/pouchdb/express-pouchdb) - An Express submodule with a CouchDB-style HTTP interface to PouchDB.
 * [pouchdb/pouchdb-server](https://github.com/pouchdb/pouchdb-server) - CouchDB-compatible HTTP server using PouchDB and Node.js
-* [PouchDB Inspector](https://chrome.google.com/webstore/detail/pouchdb-inspector/hbhhpaojmpfimakffndmpmpndcmonkfa) - nspect all the PouchDB databases on your website in Fauxton, inside the developer tools.
+* [PouchDB Inspector](https://chrome.google.com/webstore/detail/pouchdb-inspector/hbhhpaojmpfimakffndmpmpndcmonkfa) - Inspect all the PouchDB databases on your website in Fauxton, inside the developer tools.
+* [colinskow/pouchdb-seed-design](https://github.com/colinskow/pouchdb-seed-design) - Seed CouchDB design documents
+* [colinskow/pouch-mirror](https://github.com/colinskow/pouch-mirror) - Helps you create a local slave mirror of any CouchDB database for lightning-fast reads and secure writes.
+* [nolanlawson/pouchdb-dump-cli](https://github.com/nolanlawson/pouchdb-dump-cli) - Command-line tool for dumping a CouchDB/PouchDB database to a file.
 
 ## Plugins
 
+* [pouchdb/external](http://pouchdb.com/external.html) - PouchDB official plugins list.
 * [nolanlawson/pouchdb-find](https://github.com/nolanlawson/pouchdb-find) - Easy-to-use query language for PouchDB.
 * [nolanlawson/pouchdb-authentication](https://github.com/nolanlawson/pouchdb-authentication) - User authentication plugin for PouchDB and CouchDB.
 * [nolanlawson/transform-pouch](https://github.com/nolanlawson/transform-pouch) - PouchDB plugin for modifying documents before and after storage in the database.
 * [nolanlawson/pouchdb-load](https://github.com/nolanlawson/pouchdb-load) - Load documents into CouchDB/PouchDB from a dumpfile.
+* [nolanlawson/pouchdb-replication-stream](https://github.com/nolanlawson/pouchdb-replication-stream) - Replicate PouchDB/CouchDB databases with Node.js-style streams.
 * [marten-de-vries/pouchdb-erase](https://github.com/marten-de-vries/pouchdb-erase) - A replicating db.destroy() alternative for PouchDB
 * [pouchdb/upsert](https://github.com/pouchdb/upsert) - PouchDB upsert() and putIfNotExists() functions.
-* [pouchdb/external](http://pouchdb.com/external.html) - PouchDB official plugins list.
 * [PouchDB Plug-ins](http://python-pouchdb.marten-de-vries.nl/plugins.html) - PouchDB-Validation, PouchDB-Show, PouchDB-List, PouchDB-Update, PouchDB-Rewrite & PouchDB-Replicator
 
 ## Frameworks
