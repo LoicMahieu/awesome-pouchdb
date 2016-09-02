@@ -20,6 +20,7 @@ A collection of awesome [PouchDB](http://pouchdb.com/) libraries, plugins, resou
 * [colinskow/pouchdb-seed-design](https://github.com/colinskow/pouchdb-seed-design) - Seed CouchDB design documents
 * [colinskow/pouch-mirror](https://github.com/colinskow/pouch-mirror) - Helps you create a local slave mirror of any CouchDB database for lightning-fast reads and secure writes.
 * [nolanlawson/pouchdb-dump-cli](https://github.com/nolanlawson/pouchdb-dump-cli) - Command-line tool for dumping a CouchDB/PouchDB database to a file.
+* [mikebild/graphql-pouch](https://github.com/MikeBild/graphql-pouch) - A GraphQL-API runtime on top of PouchDB created by GraphQL shorthand notation as a self contained service with CouchDB synchronization.
 
 ## Plugins
 
