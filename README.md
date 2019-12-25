@@ -36,6 +36,7 @@ A collection of awesome [PouchDB](http://pouchdb.com/) libraries, plugins, resou
 
 ## Frameworks
 
+* [iyobo/PouchORM](https://github.com/iyobo/pouchorm) - A solid ORM for PouchDB.
 * [nolanlawson/ember-pouch](https://github.com/nolanlawson/ember-pouch) - PouchDB/CouchDB adapter for Ember Data.
 * [nolanlawson/PouchDroid](https://github.com/nolanlawson/PouchDroid/) - PouchDB + Android = deliciously synchronous.
 * [olafura/PouchFlux](https://github.com/olafura/PouchFlux) - Flux with PouchDB.
